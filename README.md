@@ -3,18 +3,22 @@
 # R-Clustering
 
 
-[arXiv:1910.13051](https://arxiv.org/abs/2305.10457) (preprint)
+[Time series clustering with random convolutional kernels](https://link.springer.com/article/10.1007/s10618-024-01018-x) (Data Mining and Knowledge Discovery)
 
 > <div align="justify">Time series data, spanning applications ranging from climatology to finance to healthcare, presents significant challenges in data mining due to its size and complexity. One open issue lies in time series clustering, which is crucial for processing large volumes of unlabeled time series data and unlocking valuable insights. Traditional and modern analysis methods, however, often struggle with these complexities. To address these limitations, we introduce R-Clustering, a novel method that utilizes convolutional architectures with randomly selected parameters. Through extensive evaluations, R-Clustering demonstrates superior performance over existing methods in terms of clustering accuracy, computational efficiency and scalability. Empirical results obtained using the UCR archive demonstrate the effectiveness of our approach across diverse time series datasets. The findings highlight the significance of R-Clustering in various domains and applications, contributing to the advancement of time series data mining.</div>
 
 Please cite as:
 
 ```bibtex
-@article{marco2023time,
-  title={Time Series Clustering With Random Convolutional Kernels},
-  author={Marco-Blanco, Jorge and Cuevas, Rub{\'e}n},
-  journal={arXiv preprint arXiv:2305.10457},
-  year={2023}
+@article{jorge2024time,
+  title={Time series clustering with random convolutional kernels},
+  author={Jorge, Marco-Blanco and Rub{\'e}n, Cuevas},
+  journal={Data Mining and Knowledge Discovery},
+  volume={38},
+  number={4},
+  pages={1862--1888},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
