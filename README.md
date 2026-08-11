@@ -12,7 +12,7 @@ Please cite as:
 ```bibtex
 @article{jorge2024time,
   title={Time series clustering with random convolutional kernels},
-  author={Jorge, Marco-Blanco and Rub{\'e}n, Cuevas},
+  author={Marco-Blanco, Jorge and Cuevas, Rubén},
   journal={Data Mining and Knowledge Discovery},
   volume={38},
   number={4},
