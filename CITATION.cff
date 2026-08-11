@@ -14,11 +14,11 @@ authors:
   - family-names: "Marco-Blanco"
     given-names: "Jorge"
     affiliation: "Universidad Carlos III de Madrid"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0001-3838-5810"
   - family-names: "Cuevas"
     given-names: "Rubén"
     affiliation: "Universidad Carlos III de Madrid; UC3M-Santander Big Data Institute"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # orcid: "https://orcid.org/0000-0002-1440-8360"
 version: "v1.0.0-submission"
 doi: "10.5281/zenodo.21536341"
 date-released: 2026-01-01
