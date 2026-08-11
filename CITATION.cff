@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the journal article below."
+title: "R-Clustering"
+abstract: >-
+  R-Clustering is a time series clustering method that applies convolutional
+  architectures with randomly selected kernel parameters. Features are extracted
+  by convolving the input series with random kernels and computing the
+  proportion of positive values (PPV), followed by dimensionality reduction and
+  clustering. The method is evaluated on the UCR archive and compared against
+  reference clustering algorithms in terms of accuracy, computational efficiency
+  and scalability.
+type: software
+authors:
+  - family-names: "Marco-Blanco"
+    given-names: "Jorge"
+    affiliation: "Universidad Carlos III de Madrid"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Cuevas"
+    given-names: "Rubén"
+    affiliation: "Universidad Carlos III de Madrid; UC3M-Santander Big Data Institute"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "v1.0.0-submission"
+doi: "10.5281/zenodo.21536341"
+date-released: 2026-01-01
+url: "https://github.com/jorgemarcoes/R-Clustering"
+repository-code: "https://github.com/jorgemarcoes/R-Clustering"
+license: MIT
+keywords:
+  - time series
+  - clustering
+  - random convolutional kernels
+  - unsupervised learning
+  - data mining
+preferred-citation:
+  type: article
+  title: "Time series clustering with random convolutional kernels"
+  authors:
+    - family-names: "Marco-Blanco"
+      given-names: "Jorge"
+    - family-names: "Cuevas"
+      given-names: "Rubén"
+  journal: "Data Mining and Knowledge Discovery"
+  volume: 38
+  issue: 4
+  start: 1862
+  end: 1888
+  year: 2024
+  publisher:
+    name: "Springer"
+  doi: "10.1007/s10618-024-01018-x"
